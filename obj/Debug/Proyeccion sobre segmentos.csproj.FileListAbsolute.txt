@@ -1,0 +1,10 @@
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\bin\Debug\Proyeccion sobre segmentos.exe.config
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\bin\Debug\Proyeccion sobre segmentos.exe
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\bin\Debug\Proyeccion sobre segmentos.pdb
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion sobre segmentos.csproj.AssemblyReference.cache
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion_sobre_segmentos.Properties.Resources.resources
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion sobre segmentos.csproj.GenerateResource.cache
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion sobre segmentos.csproj.CoreCompileInputs.cache
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion sobre segmentos.exe
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion sobre segmentos.pdb
+C:\Users\danyc\OneDrive\Documentos\Visual 2026\Proyeccion sobre segmentos\Proyeccion sobre segmentos\obj\Debug\Proyeccion_sobre_segmentos.Home.resources
